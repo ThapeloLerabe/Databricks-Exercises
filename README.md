@@ -1,6 +1,4 @@
-# Make sure you write a description TP
-
-📘 SQL Practice Portfolio — Exercises 1 to 4
+**📘 SQL Practice Portfolio — Exercises 1 to 4**
 A consolidated collection of foundational SQL work, covering queries, filtering, joins, grouping, and CASE statements.
 
 🧾 About This Repository
